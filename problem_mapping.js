@@ -768,7 +768,7 @@ problem_mapping = {
                 "total": 512
             },
             "Python: delete_node_from_list.py": {
-                "passed": 0,
+                "passed": 512,
                 "total": 512
             }
         },
@@ -824,7 +824,7 @@ problem_mapping = {
                 "total": 1015
             },
             "Python: even_odd_list_merge.py": {
-                "passed": 0,
+                "passed": 1015,
                 "total": 1015
             }
         },
@@ -838,7 +838,7 @@ problem_mapping = {
                 "total": 203
             },
             "Python: is_list_palindromic.py": {
-                "passed": 0,
+                "passed": 203,
                 "total": 203
             }
         },
@@ -852,7 +852,7 @@ problem_mapping = {
                 "total": 208
             },
             "Python: pivot_list.py": {
-                "passed": 0,
+                "passed": 208,
                 "total": 208
             }
         },
@@ -866,7 +866,7 @@ problem_mapping = {
                 "total": 2002
             },
             "Python: int_as_list_add.py": {
-                "passed": 0,
+                "passed": 2002,
                 "total": 2002
             }
         }
@@ -882,7 +882,7 @@ problem_mapping = {
                 "total": 101
             },
             "Python: stack_with_max.py": {
-                "passed": 0,
+                "passed": 101,
                 "total": 101
             }
         },
@@ -896,7 +896,7 @@ problem_mapping = {
                 "total": 108
             },
             "Python: evaluate_rpn.py": {
-                "passed": 0,
+                "passed": 108,
                 "total": 108
             }
         },
@@ -910,7 +910,7 @@ problem_mapping = {
                 "total": 78
             },
             "Python: is_valid_parenthesization.py": {
-                "passed": 0,
+                "passed": 78,
                 "total": 78
             }
         },
@@ -924,7 +924,7 @@ problem_mapping = {
                 "total": 255
             },
             "Python: directory_path_normalization.py": {
-                "passed": 0,
+                "passed": 3,
                 "total": 255
             }
         },
